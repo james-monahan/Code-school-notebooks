@@ -1,7 +1,7 @@
 # Code-school-notebooks
 Notebooks completed during my training
 
-Additional Excercises:
+Additional Excercises:  
 Progression France-IOI:
 http://www.france-ioi.org/user/perso.php?sLogin=jamesrgx
 
