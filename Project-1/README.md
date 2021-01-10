@@ -18,7 +18,7 @@ Proposed KPI's:
 Requirements:  
 • MySQL, LibreOffice (project requirement)  
 
-My Process: 
+My Process:  
 • Install Ubuntu on Chromebook, Install Libreoffice on Ubuntu  
 • Create Cloud SQL instance using MS Azure and load data  
 • Connect Cloud SQL DB to Local version of LibreOffice  
