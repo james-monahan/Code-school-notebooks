@@ -1,5 +1,5 @@
 # Code-school-notebooks
-Notebooks completed during my training
+Notebooks / SQL queries completed during my training
 
 Additional Excercises:  
 Progression France-IOI:
