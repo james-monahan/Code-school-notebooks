@@ -10,15 +10,15 @@ Objective:
 Proposed KPI's:  
 • Sales: The number of products sold by category and by month, with comparison and rate of change compared to the same month of the previous year  
 • Finances:  
-The turnover of the orders of the last two months by country  
-Orders that have not yet been paid  
+  -The turnover of the orders of the last two months by country  
+  -Orders that have not yet been paid  
 • Logistics: The stock of the 5 most ordered products  
 • Human Resources: Each month, the 2 sellers with the highest turnover  
 
 Requirements:  
 • MySQL, LibreOffice (project requirement)  
 
-Process:  
+My Process:  
 Create Cloud SQL instance using MS Azure and load data  
 Connect Cloud SQL DB to Local version of LibreOffice  
 Create & Save Queries  
