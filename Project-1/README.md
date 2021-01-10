@@ -19,7 +19,7 @@ Requirements:
 • MySQL, LibreOffice (project requirement)  
 
 My Process:  
-Create Cloud SQL instance using MS Azure and load data  
-Connect Cloud SQL DB to Local version of LibreOffice  
-Create & Save Queries  
-Utilize Libreoffice for data visualization/dashboarding  
+• Create Cloud SQL instance using MS Azure and load data  
+• Connect Cloud SQL DB to Local version of LibreOffice  
+• Create & Save Queries  
+• Utilize Libreoffice for data visualization/dashboarding  
