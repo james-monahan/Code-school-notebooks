@@ -3,7 +3,7 @@ Coldstart Movie Recommendation system and visualizations.
 
 Project goal was to create recommendation engine and provide a dashboard on movie stats for a faux client.
 
-Group Project only my contributions are posted.
+Group Project, only posted my own work.
 
 Method:
 - I integrated IMBD and Movie lens data to provide a database for analysis.
